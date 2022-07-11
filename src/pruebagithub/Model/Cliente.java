@@ -7,7 +7,7 @@ package pruebagithub.Model;
 
 /**
  *
- * @author ISTA
+ * @author Pandora y Hades
  */
 public class Cliente {
     
