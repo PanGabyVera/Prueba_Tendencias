@@ -5,11 +5,7 @@
  */
 package pruebagithub;
 
-/**
- *
- * @author Pandora y Sebastian
- * 11/07/2022
- */
+
 public class PruebaGitHub {
 
     /**
